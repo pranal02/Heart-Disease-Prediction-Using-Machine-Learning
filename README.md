@@ -5,3 +5,7 @@
 # Dataset
 - Source: UCI Heart Disease Dataset
 - Description: The dataset contains 14 attributes, with the target attribute indicating the presence or absence of heart disease. The features include age, sex, chest pain type, resting blood pressure, cholesterol level, fasting blood sugar, resting ECG results, maximum heart rate achieved, exercise-induced angina, and more.
+
+# Installation
+- Clone the repository to your local machine:
+git clone 
