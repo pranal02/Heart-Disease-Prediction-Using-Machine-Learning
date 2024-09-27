@@ -8,4 +8,12 @@
 
 # Installation
 - Clone the repository to your local machine:
-git clone 
+git clone https://github.com/pranal02/Heart-Disease-Prediction-Using-Machine-Learning.git
+- Navigate to the project directory :
+cd Heart-Disease-Prediction-Using-Machine-Learning
+- Create and activate a virtual environment :
+  python -m venv venv
+  
+  source venv/bin/activate
+
+  
