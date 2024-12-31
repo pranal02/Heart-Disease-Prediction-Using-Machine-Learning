@@ -62,4 +62,4 @@ Box plots of various features against the target variable.
 - The Random Forest model performed the best with the highest accuracy and balanced precision, recall, and F1-score.
 
 # Conclusion
-- In this project, we built and evaluated three machine learning models to predict the risk of heart disease in patients. The Random Forest classifier was selected as the best model based on its performance metrics. The visualizations and model evaluations provided valuable insights into the factors contributing to heart disease risk...
+- In this project, we built and evaluated three machine learning models to predict the risk of heart disease in patients. The Random Forest classifier was selected as the best model based on its performance metrics. The visualizations and model evaluations provided valuable insights into the factors contributing to heart disease risk.
